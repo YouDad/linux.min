@@ -1,0 +1,1 @@
+/home/manjaro/my/src/zsh_dracula/dracula.zsh-theme

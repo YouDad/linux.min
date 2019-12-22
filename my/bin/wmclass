@@ -1,0 +1,3 @@
+#!/bin/bash
+
+xprop|egrep "^(WM_CLASS|WM_NAME)"
